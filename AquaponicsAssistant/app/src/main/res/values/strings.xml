@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AquaponicsAssistant</string>
+    <string name="definition">Aquaponics is the combination of aquaculture (raising fish) and hydroponics (the
+soil-less growing of plants) that grows fish and plants together in one integrated
+system. The fish waste provides an organic food source for the plants, and the
+plants naturally filter the water for the fish.</string>
+
+    <string name="benefits">\n1) Saves Space
+\nAquaponics systems allow you to place plants closer to each other than normal which saves a lot of space.
+
+\n\n2) No Weeding
+\n Aquaponics systems don’t encourage/favor the growth of weeds because there is no soil.
+
+\n\n3) No Soil Pests
+\nAquaponics systems are also beneficial because they don’t harbour soil pests. Soil pests destroy plants. The only way to eliminate soil pests is by using pesticides.
+
+
+\n\n4) Offers A Source Of Income
+ \nselling surplus production of vegetables and fish helps to earn extra income.
+\n\n5) Plants Grow Faster
+\nThe fact that plants have access to nutrients 24 hours makes them grow faster.
+\n\n6) Less Energy
+\nAquaponics systems also require less energy. Because there is no weeding, pest control and other measures, you use less energy, approximately 70 percent less energy compared to traditional gardening.
+
+</string>
+    <string name="Requirements">\nThe Hardware (materials and equipment needed to build your system)
+\n1.Fish tank(s)
+\n2.Grow Bed(s) – Media beds, DWC, Wicking beds.
+
+\n3.Plumbing pipe and fittings – Will vary depending on number and type of grow beds, system layout and other factors.
+\n4.Water Pump – Size depends on desired tank exchange rate, pump head height, number of grow beds, plumbing lengths, widths and number of fittings.
+\n\nThe Software (supplies needed to manage and optimize your system)
+\n1.Water Quality Test Kit – Our Master API kit is a simple affordable kit to test critical water quality parameters
+\n2.pH Adjusters – Adjusting pH in aquaponics is a necessary part of managing a system and there are specific pH adjusters that are only suitable for aquaponics.
+
+\n3.Gardening Supplies – Items such as pruning shears, gloves, sprayers and more.
+\n4.Pest Management Supplies – There are a variety of pests that can impact your plants and there are very specific aquaponic safe products that should only be used in your system.
+
+    </string>
+
+    <string name="FAQ">\n\nQuestion:Is it more efficient or faster than a regular soil garden?
+\nAnswer:Yes. It is about twice as fast as a soil garden and you can plant much closer together. In a normal garden, the nutrients are in the soil and in our system, the nutrients are in the water. Planting close together is not a bad thing at all.
+
+\n\nQuestion:How much trouble is it to maintain?
+\nAnswer:Once everything is set up, is very simple. Daily maintenance is feeding the fish, checking the plants for insects and making sure that all your pumps are running correctly.
+    \n\nQuestion:How much power does it use?
+    \nAnswer:The water pump and air pump together use 23 watts. An additional air pump would be needed for the Sanctuary 96 or 128 and would use another 6 watts.
+    </string>
+    <string-array name="Options">
+        <item>What is Aquaponics?</item>
+        <item>Benefits of Aquaponics</item>
+        <item>Requirements</item>
+        <item>Online Resources</item>
+        <item>Community</item>
+        <item>FAQ</item>
+        <item>Seed Tracker</item>
+        <item>Log Out</item>
+    </string-array>
+</resources>

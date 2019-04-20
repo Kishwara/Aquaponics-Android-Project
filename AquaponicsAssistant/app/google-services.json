@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116352777277",
+    "firebase_url": "https://aquaponicsassistant.firebaseio.com",
+    "project_id": "aquaponicsassistant",
+    "storage_bucket": "aquaponicsassistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116352777277:android:7dc157062d04708c",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.aquaponicsassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116352777277-8h054nlts8hkddledk28kocr1akqn14l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVvyWqeVMVsPmjxtVOILlxj7uxoIdHd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

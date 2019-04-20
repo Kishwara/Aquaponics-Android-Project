@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background=" #9acd32"
+    tools:context="com.example.lenovo.aquaponicsassistant.OnlineResourcesActivity">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Videos"
+    android:textSize="25dp"
+    android:textColor="#6b1f1f"
+    android:layout_marginLeft="100dp"
+    android:id="@+id/textviewVideos"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="DIY Aquaponics"
+        android:textSize="20dp"
+        android:onClick="onclick1"
+        android:id="@+id/button1"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Setting Up Aquaponic grow bed"
+        android:textSize="20dp"
+        android:onClick="onclick2"
+        android:id="@+id/button2"
+        android:background="#b29a9a "
+        android:textAllCaps="false"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Handling growbed clogging"
+        android:textSize="20dp"
+        android:onClick="onclick3"
+        android:id="@+id/button3"
+        android:background=" #427469"
+        android:textAllCaps="false"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Websites"
+            android:textSize="25dp"
+            android:textColor="#6b1f1f"
+            android:id="@+id/textviewWebsites"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="100dp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Aquaponics-Wikipedia"
+        android:textSize="20dp"
+        android:onClick="onclick4"
+        android:id="@+id/button4"
+        android:background="#ffdddd"
+        android:textAllCaps="false"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="onclick5"
+        android:id="@+id/button5"
+        android:background="#9ad9f2"
+        android:text="FriendlyAquaponics.com"
+        android:textSize="20dp"
+        android:textAllCaps="false"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="onclick6"
+        android:text="BeginnersAquaponics.com"
+        android:textSize="20dp"
+        android:id="@+id/button6"
+        android:background=" #b29a9a"
+        android:textAllCaps="false"/>
+
+
+</LinearLayout>

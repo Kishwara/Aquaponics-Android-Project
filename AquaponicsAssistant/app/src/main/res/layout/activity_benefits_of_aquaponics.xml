@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background=" #b6fe65"
+    tools:context="com.example.lenovo.aquaponicsassistant.BenefitsOfAquaponics">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Benefits of Aquaponics"
+    android:layout_marginLeft="60dp"
+    android:layout_marginTop="10dp"
+    android:textColor="#6b1f1f"
+    android:textSize="18dp"/>
+
+    <TimePicker
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#313131"
+        android:text="@string/benefits"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/textView3"/>
+
+</LinearLayout>
